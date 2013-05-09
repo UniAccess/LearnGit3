@@ -1,0 +1,37 @@
+ *
+ {
+   border:0px;
+   margin:0px;
+   padding:0px;
+   
+ }
+ 
+ #wrapper
+ {
+   width:960px;
+   margin:0 auto;
+ }
+ 
+ #header
+ {
+    width:960px;
+	float:left;
+	background: url(../images/headerback.png) repeat-x;
+	float:left;
+	height:117px;
+}
+
+#cbody
+{
+   width:960px;
+   float:left;
+   display:block;
+}
+
+#footer
+{
+   width:960px;
+   float:left;
+}
+
+ 
